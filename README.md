@@ -20,7 +20,8 @@ Computer's Choice Display: Shows the move randomly chosen by the computer.
 Computer's Score: Displays the computer's current score.
 
 # Screenshots
-![image](https://github.com/DavidMarru/Odin-s-project-Rock-paper-scissor/assets/144349276/50ee4df4-d8a6-4463-bf7d-bdf7d7de83c1)
+![image](https://github.com/DavidMarru/DavidMarru-Odin-s-project-Rock-paper-scissor/assets/144349276/c047d5a4-69cf-4740-98eb-d91bd3447814)
+
 
 
 
