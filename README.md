@@ -1,4 +1,5 @@
 # Rock-paper-scissor
+link: https://davidmarru.github.io/DavidMarru-Odin-s-project-Rock-paper-scissor/
 
 Welcome to the Rock Paper Scissors game! This simple web-based game allows you to play the classic Rock, Paper, Scissors against the computer.
 
